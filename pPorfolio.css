@@ -1,0 +1,106 @@
+.nav-pills{
+  font-family: Monospace;
+  font-size: 20px;
+  background-color: #6d3491;
+  margin-bottom:10%;
+  
+}
+body{
+  background-color: white;
+  color:white;
+}
+
+#name{
+  font-family: lobster;
+  color: white;
+}
+.main{
+  padding: 0px;
+  margin-top:0px;
+  font-size: 6.0em;
+  font-family: Lobster;
+}
+
+.btn-default{
+  background-color: black;
+  border-color: black;
+  color: #337ab7;
+  font-size: 1.7em;
+}
+.pageOne{
+  /*background:url("http://img08.deviantart.net/2dec/i/2006/014/9/5/love_beach_high_resolution_by_keyzersoze.jpg");*/
+  backgroud-size: cover;
+  padding-bottom:5%;
+  background-color: #d7cbdb; 
+  }
+.pageTwo{
+  /*background:url("https://www.bhmpics.com/download/blue_mountains_lake_landscape-1920x1200.jpg");*/
+  background-size: cover;
+  background-color:grey;
+  
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+.pageThree{
+  /*background:url("http://cdn.wallpapersafari.com/15/10/Rn0adb.jpg");*/
+  background-size: cover;
+  background-color: #d7cbdb;
+   padding-top: 5%;
+  padding-bottom: 5%;
+}
+
+.pageFour{
+  /*background:url("http://cdn.wallpapersafari.com/95/91/hgFCsT.jpg");*/
+  background-size: cover;
+  background-color:grey;
+  font-family: Sans-serif;
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+
+.block{
+  font-family: lobster;
+  background-color: grey;
+  opacity: 0.7;
+  padding: 10px;
+  width: 50%;
+  margin-left:auto;
+  margin-right:auto;
+  border-radius: 10px;
+  }
+.btnList{
+  margin-top: 15px;
+}
+
+
+p{
+ font-size: 2.2em
+}
+
+.me{
+  margin-left:100px;
+  border-radius: 50%;
+}
+#faceBookIcon{
+  color: rgb(59, 89, 163)
+}
+#twitterIcon{
+  color: rgb(0, 172, 237)
+}
+#linkedInIcon{
+  color: rgb(0, 127, 178)
+}
+#gitHubIcon{
+  color: rgb(102, 43, 129)
+}
+
+.portImg{
+  width:500px;
+  height: 300px;
+  margin-left: auto;
+  margin-right:auto;
+ }
+
+.cont{
+  padding-top: 3%;
+}
